@@ -1,0 +1,6 @@
+{
+  "name": "Mapa Interativo do Andar",
+  "description": "Uma aplicação web para visualizar o mapa do andar da empresa e seus respectivos organogramas de forma interativa.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
